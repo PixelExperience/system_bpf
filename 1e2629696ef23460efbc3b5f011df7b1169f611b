@@ -16,6 +16,24 @@
       "message": "Reason?",
       "revId": "1e2629696ef23460efbc3b5f011df7b1169f611b",
       "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "401364c5_7b63f41f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000606
+      },
+      "writtenOn": "2022-11-10T18:40:33Z",
+      "side": 1,
+      "message": "bpf issues on prebuilt mediatek kernels",
+      "parentUuid": "67a9c3e7_710e8e81",
+      "revId": "1e2629696ef23460efbc3b5f011df7b1169f611b",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
     }
   ]
 }
